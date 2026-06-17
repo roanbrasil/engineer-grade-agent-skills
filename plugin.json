@@ -1,0 +1,10 @@
+{
+  "name": "engineer-grade-agent-skills",
+  "version": "1.0.0",
+  "description": "Production-grade engineering skills for AI coding agents — polyglot, event-driven, architecture-first",
+  "author": "roanbrasil",
+  "license": "MIT",
+  "skills": "skills/",
+  "commands": "commands/",
+  "hooks": "hooks/"
+}
