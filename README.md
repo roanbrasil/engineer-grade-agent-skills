@@ -55,7 +55,7 @@ cd engineer-grade-agent-skills
 
 ---
 
-## Skills (84 total)
+## Skills (90 total)
 
 ### Clean Engineering
 | Skill | Description |
@@ -112,6 +112,12 @@ cd engineer-grade-agent-skills
 | `event-streaming` | Stream processing patterns, windowing, stateful ops |
 | `messaging-brokers` | RabbitMQ, SQS/SNS, NATS, broker selection |
 | `websockets-realtime` | WebSocket, SSE, long polling; real-time patterns at scale |
+| `iggy-streaming` | Iggy: high-performance Rust-native streaming; TCP/HTTP/QUIC |
+| `robustmq` | RobustMQ: cloud-native Rust MQ; MQTT + Kafka + AMQP in one broker |
+| `redpanda` | Redpanda: Kafka-compatible C++ streaming; no ZooKeeper; thread-per-core |
+| `apache-pulsar` | Pulsar: multi-tenant, geo-replication, tiered storage, 4 subscription types |
+| `nats-jetstream` | NATS + JetStream: lightweight messaging, KV store, object store, leaf nodes |
+| `mqtt-patterns` | MQTT 3.1/5.0: IoT patterns, QoS, device shadow, shared subscriptions |
 
 ### Distributed Systems
 | Skill | Description |
